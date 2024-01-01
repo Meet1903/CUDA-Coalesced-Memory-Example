@@ -1,8 +1,3 @@
-// vecAddKernel00.cu
-// For ECE-GY 9143 - High Performance Computing for Machine Learning
-// Instructor: Parijat Dubey
-// Based on code from the CUDA Programming Guide
-
 // This Kernel adds two Vectors A and B in C on GPU
 // without using coalesced memory access.
 

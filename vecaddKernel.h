@@ -1,7 +1,3 @@
-// vecAddKernel.h
-// For ECE-GY 9143 - High Performance Computing for Machine Learning
-// Instructor: Parijat Dubey
-
 // Kernels written for use with this header
 // add two Vectors A and B in C on GPU
 
