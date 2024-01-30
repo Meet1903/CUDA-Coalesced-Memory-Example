@@ -15,10 +15,13 @@ With Coalesced Memory
 Comparison:
 
 Running time:
+
 ![Time comparison](content/time.jpg)
 
 FLOPS:
+
 ![FLOPS](content/GFlopsS.jpg)
 
 Bandwidth:
+
 ![Bandwidth](content/GBytesS.jpg)
